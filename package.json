@@ -1,0 +1,25 @@
+{
+  "name": "e4u-chat",
+  "version": "1.0.0",
+  "description": "e4u-chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robsonmagno/e4u-chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Robson Magno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonmagno/e4u-chat/issues"
+  },
+  "homepage": "https://github.com/robsonmagno/e4u-chat#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
