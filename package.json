@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/robsonmagno/e4u-chat#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "http-server": "^0.12.3"
   }
 }
